@@ -1,0 +1,13 @@
+{
+  "title": "Teste",
+  "category": "Notícias",
+  "excerpt": "Teste",
+  "image": "/hero.png",
+  "author": "Equipe Assejur",
+  "readTime": "5 min",
+  "tags": [],
+  "content": "<p>Teste</p>",
+  "date": "04 de jun. de 2025",
+  "id": 1001,
+  "slug": "teste"
+}
